@@ -84,3 +84,10 @@
     font-size: 13px;
     cursor: pointer;
 }
+
+input#check{
+
+    height: 15px;
+    margin:auto 0;
+    margin-right: 5px;
+}
